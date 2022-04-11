@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kelvin.purdom@gmail.com
+	name = Kelvin Purdom
